@@ -1,10 +1,7 @@
-# CPE031 – Visualization and Data Analysis
+# CPE-031 – Visualization and Data Analysis
 
-<p align="left">
-  <img src="e6a7aec5-5a26-408f-93b4-1ce509009fe4.jpg" alt="Joshua Alvarez" width="250">
-</p>
 
-## Student Information
+## Student Information / details 
 
 | **Information** | **Details** |
 |-----------------|-------------|
